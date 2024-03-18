@@ -1,3 +1,7 @@
+/**
+ * Student Name: Carl Nikoi
+ * Student Number: 100439006
+ */
 package org.example.lab8;
 
 import javafx.application.Application;
